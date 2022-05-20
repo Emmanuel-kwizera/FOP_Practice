@@ -1,8 +1,6 @@
-#include <stdio.h>
- // Defining the function to handle the sorting 
 void bubbleSort(int arr[], int n) {
   int array[] = {
-    some unsorted elements
+    // some unsorted elements
   };
   int i, j, temp;
   for (i = 0; i < n; i++) {
